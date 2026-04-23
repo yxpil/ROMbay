@@ -1,0 +1,4 @@
+name: 数据库安全路由
+description: 负责拆分数据库权限，和进行内存加速
+port: 3307
+auto: true
