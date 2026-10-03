@@ -1,5 +1,13 @@
 # ROMbay 测试说明
 
+- 测试完成：是（2026-10-04）
+- 测试日期：2026-10-04
+- 测试内容：单元：表级权限校验(guest 越权拒绝)、native 密码校验、MySQL 包解析、LRU 缓存 key
+- 运行命令：npm test
+- 测试框架：Node 内置 node:test
+- 模型：豆包（Doubao）生成
+
+
 MySQL 代理审计工具。测试基于 Node.js 内置运行器 `node --test`，**不依赖真实 MySQL**（用裸实例绕过构造函数，纯测可移植逻辑）。
 
 ## 运行方式
