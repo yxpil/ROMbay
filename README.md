@@ -139,3 +139,15 @@ ROMbay/
 
 - 本项目为实验性项目，生产环境请谨慎使用
 - 建议在测试环境中充分测试后再部署
+
+---
+
+<div align="center">
+
+<a href="https://github.com/yxpil/ROMbay">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=yxpil/ROMbay" alt="gh-card · yxpil/ROMbay" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
